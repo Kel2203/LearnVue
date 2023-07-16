@@ -23,8 +23,4 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
-##teste03
-
-
-##Mais um teste 
+##teste Pull Request
